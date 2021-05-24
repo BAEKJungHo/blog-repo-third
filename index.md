@@ -31,7 +31,7 @@ description: Resume
 
 # [Army](#)
 
-- 제 32사단 정보통신대대
+## 제 32사단 정보통신대대
 
 # [Projects](#)
 
