@@ -17,7 +17,7 @@ title: Developer
 author: "BAEK Jung Ho"
 email: "qjxjfld13@gmail.com"
 description: Effort
-baseurl: "/resume" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://github.com/BAEKJungHo" # the base hostname & protocol for your site, e.g. http://example.com
 
 # ------------------------------------------------------------------------------
