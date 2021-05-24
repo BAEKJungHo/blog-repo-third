@@ -16,7 +16,7 @@
           <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
             <ul class="nav navbar-nav navbar-right">
               <li><a href="{{ site.baseurl | append: '/' }}">Home</a></li>
-              {% if site.blog == true %}
+              <!-- {% if site.blog == true %}
                 <li><a href="{{ '/blog' | prepend: site.baseurl }}">Blog</a></li>
               {% endif %}
 
@@ -33,7 +33,7 @@
               {% endfor %}
               {% for page in site.items %}
                 <li class="nav-item"><a href="{% if page.redirect_to %}{{page.redirect_to}}{% else %}{{ page.url | prepend: site.baseurl }}{% endif %}">{{ page.title }}</a></li>
-              {% endfor %}
+              {% endfor %} -->
 
               <script>
                 // clean repeated dropdowns and add <li> to their positions
