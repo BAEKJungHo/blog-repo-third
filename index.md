@@ -5,22 +5,15 @@ description: Resume
 ---
 # Introduction
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-culpa qui officia deserunt mollit anim id est laborum.
+목표와 계획을 중요시하며, 변화를 받아들일 준비가 되어있고 성장의 욕구가 크며, 좋은 개발자이기 전에 좋은 사람이 되려고 노력합니다.
+유지보수성과 확장성이 좋은 소프트웨어를 만들어내는 것에 관심이 있으며, 클린 코드 및 글쓰기에 관심이 있습니다.
 
-# [Makrdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+# [Career](#)
 
-# H1
-## H2
-### H3
-#### H4
-##### H5
-###### H6
+## (주)메이아이
 
+- 입사일 : 2019.07.01
+- 퇴사일 : present
 
 Emphasis, aka italics, with *asterisks* or _underscores_.
 
@@ -30,6 +23,16 @@ Combined emphasis with **asterisks and _underscores_**.
 
 Strikethrough uses two tildes. ~~Scratch this.~~
 
+# [Education](#)
+
+## 우송정보대학
+
+- 전공 : 컴퓨터 정보학과
+- 학점 : 4.49
+
+## 천안중앙고등학교
+
+- 이과
 
 1. First ordered list item
 2. Another item
