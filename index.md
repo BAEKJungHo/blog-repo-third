@@ -46,6 +46,65 @@ description: Resume
 |**대전동구청<br/>홈페이지<br/>신규 구축**|2019-09-01~<br/>2029-12-31|IntelliJ, Spring Boot 1.5.4<br/>JDK 1.8, JSP, Javascript, MySQL|- 민원사무편람<br/>- 날씨,미세먼지 공공API<br/>- 사전정보공개<br/>- 정책실명제<br/>- 단체예약프로그램<br/>- 약수터안내<br/>- 예산서공개<br/>- 설문조사<br/>- 팝업 관리<br/>- 일정 관리<br/>- 크롤링을 통한 iframe 관리<br/>- DataBase Migration|     
 |**CMS 관리**|2019-07-15~<br/>2019-08-31|IntelliJ, Spring Boot 1.5.4<br/>DK 1.7, JSP, Javascript, MySQL|- 설문조사 관리<br/>- 파일 관리<br />- 수정사항 처리|
 
+# [Skills](#)
+
+### IDE
+
+- [IntelliJ](#)
+- Eclipse
+- Visual Studio Code
+- Atom
+
+### Programming Languages
+
+- Java
+  - JDK 1.8 이상(Stream, Lambda, Optional 등)
+- Javascript
+  - ES6
+
+### FrameWork
+
+- Spring & Spring Boot
+  - Spring Security, JPA, QueryDSL
+  - Mybatis, ORM
+- eGovernment
+- JUnit
+
+### Configuration Management
+
+- GitHub
+- GitLab
+- SVN
+
+### Infra/Server
+
+- Linux
+- Apache
+  - Apache Jmeter
+- Tomcat
+- Jeus
+- SSL/TLS
+
+### DataBase
+
+- Oracle
+- MySQL
+- PostgreSql
+- Cubrid
+
+### ETC
+
+- [DesignPattern](https://github.com/BAEKJungHo/designpattern)
+- [Clean Programming](https://github.com/BAEKJungHo/clean-programming)
+- [Refactoring](https://github.com/BAEKJungHo/designpattern)
+- [Object Oriented Programming](#)
+  - [Encapsulation](https://github.com/BAEKJungHo/blog-repo-second/blob/main/_posts/2021-01-08-oop-encapsulation.md)
+  - [Inheritance](https://github.com/BAEKJungHo/blog-repo-second/blob/main/_posts/2021-01-09-oop-inheritance.md)
+  - [Polymorphism](https://github.com/BAEKJungHo/blog-repo-second/blob/main/_posts/2021-01-11-oop-polymorphism.md)
+  - [SOLID](https://github.com/BAEKJungHo/blog-repo-second/blob/main/_posts/2021-01-13-oop-solid.md)
+  - [KISS](https://github.com/BAEKJungHo/blog-repo-second/blob/main/_posts/2021-01-20-oop-kiss.md)
+
+
 1. First ordered list item
 2. Another item
   * Unordered sub-list.
@@ -530,7 +589,7 @@ This line is only separated by a single newline, so it's a separate line in the 
 </div>
 
 
-<h1>Wells</h1>
+<h1>좌우명</h1>
 <div class="well">
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas sed diam eget risus varius blandit sit amet non magna. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Cras mattis consectetur purus sit amet fermentum. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Aenean lacinia bibendum nulla sed consectetur.</p>
+  <p>노력은 배신하지 않는다.</p>
 </div>
