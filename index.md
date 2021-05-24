@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Web BackEnd Developer
+title: Dope
 description: Resume
 ---
 # Introduction
