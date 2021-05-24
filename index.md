@@ -14,14 +14,9 @@ description: Resume
 
 - 입사일 : 2019.07.01
 - 퇴사일 : present
+- 담당 업무 : 신규 웹 홈페이지 구축
 
-Emphasis, aka italics, with *asterisks* or _underscores_.
-
-Strong emphasis, aka bold, with **asterisks** or __underscores__.
-
-Combined emphasis with **asterisks and _underscores_**.
-
-Strikethrough uses two tildes. ~~Scratch this.~~
+첫 회사에 입사 당시 스프링에 대한 이해가 많이 부족한 상태에서 입사해서 많은 노력 끝에 현재는 개발 팀 내에서 자바, 스프링 관련 지식들을 공부 후 전파하고있으며 프로젝트의 메인 개발자로 투입되고 있습니다. 입사 후 `Swagger 를 통한 API 문서화 도입` 및 `커밋 메시지 규칙 도입`을 하였으며, 회사내 개발팀에서 문서화 부족으로 인한 불편함을 겪고있어서 `신입 교육 자료 및 각종 정보 등에 대한 문서화`를 정착시켰습니다.
 
 # [Education](#)
 
