@@ -70,7 +70,7 @@ description: Resume
 
 - Spring & Spring Boot
   - Spring Security, JPA, QueryDSL
-  - Mybatis, ORM
+  - Hibernate, MyBatis
 - eGovernment
 - JUnit
 
